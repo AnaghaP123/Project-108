@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Neucha', cursive;
+    background: #a6b3ce;
+}
+.header_div
+{
+    background:rgb(224, 245, 240);
+    color:rgb(255, 80, 124);
+}
+.header_div p
+{
+    font-family: 'Nanum Gothic Coding', monospace;
+    color: rgb(196, 163, 92);
+    letter-spacing: 1px;
+    font-size:13px;
+    font-weight: bold;
+}
+.main_div button
+{
+    font-family: 'Amatic SC', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight:bolder;
+    letter-spacing: 3.5px;
+    box-shadow: 8px 8px 3px rgb(156, 223, 223);
+}
+.cr_footer
+{
+    position:fixed;
+    color: rgb(156, 193, 223);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(218, 215, 250);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 3px rgb(156, 223, 171);
+}
